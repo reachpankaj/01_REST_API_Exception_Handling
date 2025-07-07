@@ -1,8 +1,8 @@
-package in.ashokit.service;
+package com.pankaj.service;
 
 import org.springframework.stereotype.Service;
 
-import in.ashokit.exception.CustomerNotFoundException;
+import com.pankaj.exception.CustomerNotFoundException;
 
 @Service
 public class CustomerService {

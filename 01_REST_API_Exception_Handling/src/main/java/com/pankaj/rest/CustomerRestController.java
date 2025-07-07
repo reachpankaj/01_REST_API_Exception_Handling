@@ -1,11 +1,11 @@
-package in.ashokit.rest;
+package com.pankaj.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import in.ashokit.service.CustomerService;
+import com.pankaj.service.CustomerService;
 
 @RestController
 public class CustomerRestController {
