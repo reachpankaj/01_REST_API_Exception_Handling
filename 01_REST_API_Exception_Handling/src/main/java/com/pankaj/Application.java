@@ -1,4 +1,4 @@
-package in.ashokit;
+package com.pankaj;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

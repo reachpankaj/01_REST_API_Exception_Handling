@@ -1,4 +1,4 @@
-package in.ashokit.exception;
+package com.pankaj.exception;
 
 public class CustomerNotFoundException extends RuntimeException{
 	
